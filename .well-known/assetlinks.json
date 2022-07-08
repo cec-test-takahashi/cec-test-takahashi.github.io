@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.MitsubishiElectric.MELflo",
+    "sha256_cert_fingerprints":
+    ["F7:54:C6:4E:18:A0:57:3A:42:24:DF:FA:C5:B4:CC:BB:13:B8:5A:DA:54:CA:D0:89:95:9D:4A:12:85:7E:03:BA"]
+  }
+}]
